@@ -1,7 +1,10 @@
-Tamagotchi Java Project
-This is a simple Java implementation of the Tamagotchi game, where you can take care of a virtual pet.
+Projet Java Tamagotchi
+Il s'agit d'une implémentation simple en Java du jeu Tamagotchi, où vous pouvez prendre soin d'un animal de compagnie virtuel.
 
-Compilation
-Using javac and Maven
+Compilation et Exécution
+Suivez les instructions à l'écran pour jouer au jeu Tamagotchi et prendre soin de votre animal de compagnie virtuel.
 
-I hope this helps!
+Lancement du Jeu avec launch.bat
+
+Auteur
+Jules Laroche
